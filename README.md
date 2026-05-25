@@ -37,9 +37,9 @@ https://lexo-portfolio.vercel.app/
 # 📂 Project Structure
 
 
--index.html
--style.css
--script.js
+- index.html
+- style.css
+- script.js
 
 # Images:
 - MF.jpg
