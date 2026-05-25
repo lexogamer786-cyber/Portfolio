@@ -55,7 +55,8 @@ https://lexo-portfolio.vercel.app/
 - Profile-Card.jpg
 - Skills-P.jpg
 - IND-P.jpg
-
+- Basic-P.jpg
+- Pbg.jpg
 
 
 
