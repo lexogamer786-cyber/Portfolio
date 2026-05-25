@@ -42,19 +42,19 @@ https://lexo-portfolio.vercel.app/
 -script.js
 
 # Images:
--MF.jpg
--GA.jpg
--MP.jpg
--Portfolio.jpg
--Github.jpg
--Zaika.jpg
--JS-Calculator.jpg
--Algorithm.jpg
--HYD-P.jpg
--Service-card.jpg
--Profile-Card.jpg
--Skills-P.jpg
--IND-P.jpg
+- MF.jpg
+- GA.jpg
+- MP.jpg
+- Portfolio.jpg
+- Github.jpg
+- Zaika.jpg
+- JS-Calculator.jpg
+- Algorithm.jpg
+- HYD-P.jpg
+- Service-card.jpg
+- Profile-Card.jpg
+- Skills-P.jpg
+- IND-P.jpg
 
 
 
